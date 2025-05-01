@@ -20,7 +20,7 @@
 
 ### 🧠 Current Focus
 - 🚀 Competitive programming  
-- 🧩 Building side projects in C++  
+- 🧩 Building side projects in Java  
 - 📚 Learning data structures and algorithms deeply  
 
 ---
