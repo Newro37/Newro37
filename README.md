@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Newro 👋</h1>
-<p align="center">A passionate C++ developer and problem solver from Bangladesh</p>
+<h1 align="center">Hi, I'm Md. Nazmul Huda</h1>
+<p align="center">I'm an undergraduate CSE student from Bangladesh, deeply passionate about turning ideas into code. Welcome to my creative lab, here i learn, build, and grow every day. </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Newro37&style=flat-square&color=blue" alt="Newro37" />
@@ -19,9 +19,9 @@
 ---
 
 ### 🧠 Current Focus
-- 🚀 Competitive programming  
-- 🧩 Building side projects in Java  
-- 📚 Learning data structures and algorithms deeply  
+- 🚀 Sharpening my skills in competitive programming  
+- 🧩 Developing Java-based side projects to explore real-world applications 
+- 📚 Diving deep into data structures and algorithms for strong fundamentals
 
 ---
 
